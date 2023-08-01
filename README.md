@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Michal**! I'm currently helping with internal developer platform at **Ataccama Software, s.r.o.**.
+- 👋 Hi, I’m **Michal**! IT admin turned DevOps guy, who tries to learn everything at once all the time.
 - 👀 I’m interested in all DevOps things! **Kubernetes, Docker, Terraform, Ansible, Gitlab CI/CD**, you name it!
 - 🌱 I’m currently learning **Rust** and a bit of **Go** and **Groovy**. And also some advanced **Python**! *Und Deutsche Sprache* 🇩🇪
 - 📫 You can reach me on [Keybase](https://keybase.io/wokoman) or [LinkedIn](https://www.linkedin.com/in/kozakmichal/). Visit [my website](https://michalkozak.cz/) for more!
